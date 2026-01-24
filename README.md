@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/code-encoding-typing-working-busy-gif-17808977](https://media1.tenor.com/m/GythNLlEJtYAAAAC/code-encoding.gif" >
 
-- 🌱 I’m currently learning **Angular, JavaScript**
+- 🌱  **Angular, JavaScript**
 
 - 💬 Ask me about **Angular , JavaScript , CSS3 , HTML5 , Bootstrap**
 
